@@ -1,0 +1,23 @@
+{
+  "hdhub": {
+    "name": "hdhub4u",
+    "url": "https://new8.hdhub4u.cl",
+    "cdn_hosts": [
+      "hubcloud.foo",
+      "gadgetsweb.xyz",
+      "pixeldrain.com",
+      "hubcdn.fans",
+      "hubdrive.space"
+    ]
+  },
+  "drive": {
+    "name": "moviesDrive",
+    "url": "https://new3.moviesdrive.beer/",
+    "cdn_hosts": [
+      "drive.google.com",
+      "drive.usercontent.google.com",
+      "gdrive.com",
+      "docs.google.com"
+    ]
+  }
+}
